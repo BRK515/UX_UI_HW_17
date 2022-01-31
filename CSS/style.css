@@ -124,9 +124,9 @@ a:hover{
 }
 
 .footer a{
-    padding: 5px;
+    float: left;
+    margin-left: 10px;
 }
-
 
 .copyright{
     float: right;
